@@ -1,0 +1,7 @@
+{
+        "name":"New2",
+        "desc":"Default Project for Xelerate",
+		"filePath": "/New2/New2.json",
+        "type":"APPLICATION",
+        "childs":[]    
+}
